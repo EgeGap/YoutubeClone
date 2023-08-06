@@ -1,0 +1,30 @@
+.subscrive-button {
+    background-color: rgb(197, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  .subscrive-button:hover {
+    background-color: blueviolet;
+    opacity: 0.8;
+  }
+  .subscrive-button:active {
+    opacity: 0.5;
+  }
+  .join-button {
+    background-color: white;
+    color: rgb(0, 174, 255);
+    height: 30px;
+    width: 65px;
+    border-radius: 2px;
+    border-color: rgb(0, 174, 255);
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    font-weight: 500;
+  }
